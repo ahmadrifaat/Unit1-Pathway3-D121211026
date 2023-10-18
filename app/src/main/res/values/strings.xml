@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name="full_name">Ahmad Rifaat</string>
+    <string name="title">Android Developer Student</string>
+    <string name="phone_number">+62895331318547</string>
+    <string name="share_text">\@AndroidDev</string>
+    <string name="email">makarimard21d@student.unhas.ac.id</string>
+</resources>
